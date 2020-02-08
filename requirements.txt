@@ -1,0 +1,4 @@
+requests
+pip
+bs4
+pytz
